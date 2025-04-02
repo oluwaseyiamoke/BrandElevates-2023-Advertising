@@ -1,4 +1,4 @@
-# BrandElevate's 2023 Advertising 
+# BrandElevate's 2023 Advertising
 
 ## Table of Contents
 1. [Project Overview](#project-overview)
